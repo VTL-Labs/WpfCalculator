@@ -1,7 +1,7 @@
 All the Version are in the releases tab.
 
 ## ⚠️ Important Note for Windows Users 
-(If you want a shorter Version of this skip to line 35)
+(If you want a shorter Version of this skip to the end)
 
 ### Windows Defender may show a warning
 
